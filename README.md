@@ -1,6 +1,6 @@
 # Short-Path-Finder
 
--- Application to find short distance between two points using Dijkstra's algorithm
+-- Application to find short distance between two points using Dijkstra's algorithm and A* star
 
 ## Requirements
 
