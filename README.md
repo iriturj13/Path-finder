@@ -26,12 +26,6 @@ pip install pygame
 
 ## usage
 
-clone the project and change the directory
-
-```bash
-git clone https://github.com/GanapathyPT/Short-Path-Finder.git
-```
-
 ```bash
 cd ./Short-Path-Finder
 ```
