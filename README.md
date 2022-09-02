@@ -46,3 +46,6 @@ python main.py
 6.  Click on ENTER to use the A\* algorithm
 7.  wait untill the Algorithm finds the path
 8.  Click on any button to start again
+![video1194938174](https://user-images.githubusercontent.com/79366792/188068360-e03623fb-2935-4468-b470-bbc124409ebf.gif)
+
+
